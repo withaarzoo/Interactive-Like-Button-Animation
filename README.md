@@ -97,4 +97,4 @@ Special thanks to Ryan Parag for the inspiration behind this project. Check out 
 
 ## License
 
-This project is distributed under the [MIT License](link-to-license-file).
+This project is distributed under the [MIT License](https://opensource.org/licenses/MIT).
