@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project is an interactive like button animation that adds a touch of dynamism to the user experience. Inspired by the creative work of Ryan Parag on CodePen, it aims to provide a smooth and visually appealing like button interaction for web applications.
+This project is an interactive like button animation that adds a touch of dynamism to the user experience . Inspired by the creative work of Ryan Parag on CodePen, it aims to provide a smooth and visually appealing like button interaction for web applications.
 
 ## Table of Contents
 
